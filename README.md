@@ -1,1 +1,1 @@
-# Pygame
+Jeu réalisé avec Python
